@@ -16,7 +16,7 @@
   <author email="cherni.fahd@canossamilano.org">
   fahd cherni
   </author> 
-  <! -- Icone per android e ios -->   
+  <!-- Icone per android e ios -->   
 <icon src="formulainteresse.png" platform="android" qualifier="ldpi" />
 <icon src="formulainteresse.png" platform="android" qualifier="mdpi" />
 <icon src="formulainteresse.png" platform="android" qualifier="hdpi" />
